@@ -1,0 +1,49 @@
+# LANGUAGE ja translation for WordPress.
+# Copyright (C) 2018 WordPress contributors.
+# This file is distributed under the same license as the WordPress package.
+# FIRST AUTHOR info@ruana.co.jp, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 4.9.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-07 18:19-0600\n"
+"PO-Revision-Date: 2018-11-07 18:25+0900\n"
+"Language-Team: ja <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
+
+#: class-shortcode-simple-similar-post.php:60
+msgid "Related Post"
+msgstr "関連記事"
+
+#: readme.txt
+msgid "This is a better way to view similar post."
+msgstr "これは関連記事を生成するのに役立つプラグインです。"
+
+#: readme.txt
+msgid "This plugin is a better way to set a similar post in article."
+msgstr "これは関連記事を生成するのに役立つプラグインです。"
+
+#: readme.txt
+msgid ""
+"All you have to do is setting a shortcode.This plugin works setting similar "
+"post."
+msgstr "ショートコードを設置するだけで、自動で関連記事を設定してくれます。"
+
+#: readme.txt
+msgid ""
+"Upload the `simple-shortcode-similar-post` directory to your `/wp-content/"
+"plugins/` directory"
+msgstr ""
+"'/wp-content/plugins/' ディレクトリに ' simple-shortcode-similar-post ' ディ"
+"レクトリをアップロードします"
+
+#: readme.txt
+msgid "Activate the plugin through the 'Plugins' menu in WordPress"
+msgstr "WordPress の「プラグイン」メニューからプラグインを有効化してください"
